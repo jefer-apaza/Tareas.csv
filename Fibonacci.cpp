@@ -43,7 +43,7 @@ int main () {
 					
 		}
 
-		cout << "Para continuar el programa inserte un valor distinto de 0: "
+		cout << "Para continuar el programa inserte un valor distinto de 0: ";
 		cin >> x;
 	}
 
